@@ -1,4 +1,5 @@
-- Hello 👋, I am Ganga Vantaku
+ Hello 👋, I am Ganga Vantaku
+ 
   Aspiring Frontend Developer currently in the final phase of a 5-month Frontend Development program at Masai School, Bengaluru. Passionate about building responsive and user-centric web applications, I am eager to explore new technologies and continuously enhance my skills. Committed to writing clean, efficient code and staying updated with industry trends.
   
 - 👀 I am currently learning to be a front-end web developer.
