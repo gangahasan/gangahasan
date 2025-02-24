@@ -1,5 +1,6 @@
- Hello 👋, I am Ganga Vantaku
- 
+
+                                     
+  # Hello 👋, I am Ganga Vantaku
   Aspiring Frontend Developer currently in the final phase of a 5-month Frontend Development program at Masai School, Bengaluru. Passionate about building responsive and user-centric web applications, I am eager to explore new technologies and continuously enhance my skills. Committed to writing clean, efficient code and staying updated with industry trends.
   
 - 👀 I am currently learning to be a front-end web developer.
@@ -7,7 +8,7 @@
 - 💬 Ask me about HTML/CSS/Java Script/Ract.Js/chakra UI/Redux
 - 📫 How to reach me ...[email:rgangabhavani2@gmail.com](rgangabhavani2@gmail.com)|[LinkedIn](https://www.linkedin.com/in/bavaniganga)
 
-## Languages and Tools:
+# Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -21,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
 </p>
 
-## Contact With Me
+# Contact With Me
 Email:[rgangabhavani2@gmail.com](rgangabhavani2@gmail.com)
 
 
