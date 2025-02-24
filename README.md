@@ -23,10 +23,11 @@
 </p>
 
 # Contact With Me
-Email:[rgangabhavani2@gmail.com](rgangabhavani2@gmail.com)
 
+📧 Mail To: [rgangabhavani2@gmail.com](mailto:rgangabhavani2@gmail.com)
 
-[linkedIn](https://www.linkedin.com/in/bavaniganga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bavaniganga)
+
 <!---
 gangahasan/gangahasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
