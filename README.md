@@ -1,6 +1,6 @@
 
                                      
-  # Hi, I'm Ganga Bhavani Vantaku 👋  
+  # Hi, I'm Ganga Vantaku 👋  
 
 🚀 **Aspiring Frontend Developer** | Passionate about building responsive and user-centric web applications.  
 🎓 Currently in the final phase of a **5-month Frontend Development program** at **Masai School, Bengaluru**.  
